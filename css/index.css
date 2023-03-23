@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(229, 247, 67);
+}
+
+.heading,
+.main-heading {
+  font-family: Garamond, sans-serif;
+  color: brown;
+}
+
+.main-heading {
+  font-size: 48px;
+  text-align: center;
+}
+
+.heading {
+  font-size: 32px;
+}
+
+.main-image {
+  display: block;
+  margin: 0 auto;
+}
+
+.recipes {
+  padding-bottom: 10px;
+}
+
+.recipe {
+  font-size: 18px;
+  font-family: "Courier New", Courier, monospace;
+  color: brown;
+}

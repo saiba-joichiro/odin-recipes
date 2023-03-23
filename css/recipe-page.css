@@ -1,0 +1,30 @@
+body {
+  background-color: bisque;
+}
+.recipe-title {
+  text-align: center;
+  font-size: 48px;
+  font-family: Garamond, sans-serif;
+}
+
+.recipe-image {
+  display: block;
+  margin: 0 auto;
+  height: 500px;
+}
+
+.section-subheading,
+.section-heading {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 32px;
+}
+
+.section-subheading {
+  font-size: 24px;
+}
+
+.section-text,
+.ingredient-item {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+}
